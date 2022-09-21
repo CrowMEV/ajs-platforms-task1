@@ -1,0 +1,19 @@
+{
+  "name": "@crowmev/ajs-platforms-task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrowMEV/ajs-platforms-task1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrowMEV/ajs-platforms-task1/issues"
+  },
+  "homepage": "https://github.com/CrowMEV/ajs-platforms-task1#readme"
+}
